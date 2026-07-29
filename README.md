@@ -13,6 +13,7 @@ Ogotera Kwa Nyasae is part of several other databases and lyrics based projects 
 2. Swahili: https://tinyurl.com/rejnac-nyimbo
 3. SDAH: https://tinyurl.com/rejnac-sdah
 4. Kikuyu: https://tinyurl.com/rejnac-kikuyu
+5. Chichewa: https://tinyurl.com/rejnac-chichewa
    
 
 # Donation contacts
