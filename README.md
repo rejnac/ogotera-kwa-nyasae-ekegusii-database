@@ -4,7 +4,7 @@ By sir enock,
 
 The repository contains all the 370 Ogotera Kwa Nyasae hymnal lyrics in Ekegusii language also called Kisii, Gusii pr Kikisii.
 
-Please note that the songs were initially prepared on Videopsalm Church Presentation software, exported in its native (.vpc) format, and extracted as (.Json) file.
+Disclaimer: The songs were initially prepared on Videopsalm Church Presentation software, exported in its native (.vpc) format, and extracted as (.Json) file.
 
 Ogotera Kwa Nyasae is part of several other databases and lyrics based projects that we are currently doing in different languages. 
 
