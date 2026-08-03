@@ -19,4 +19,4 @@ Compiled: https://tinyurl.com/rejnac-compiled
 2. Copy the downloaded (.vpc) file into your computer's VideoPsalm root folder (inside songbooks)
 3. Launch or restart VideoPsalm App for the changes to apply. Enjoy!!!
  
-Prepared sir enock and friends (https://rejnac.org).
+Prepared sir enock and friends (https://rejnac.org). 
