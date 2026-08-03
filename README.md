@@ -8,9 +8,9 @@ Please note that the songs were initially prepared on Videopsalm Church Presenta
 
 Ogotera Kwa Nyasae is part of several other databases and lyrics based projects that we are currently doing in different languages. 
 
-# Links to related projects
+# Multi-lingual SDA hymnal
 
-Compilation: https://tinyurl.com/rejnac-hymnals
+Compiled: https://tinyurl.com/rejnac-hymnals
    
 
 # Donation contacts
