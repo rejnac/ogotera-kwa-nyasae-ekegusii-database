@@ -7,13 +7,10 @@ The repository contains all the 370 Ogotera Kwa Nyasae hymnal lyrics in Ekegusii
 Please note that the songs were initially prepared on Videopsalm Church Presentation software, exported in its native (.vpc) format, and extracted as (.Json) file.
 
 Ogotera Kwa Nyasae is part of several other databases and lyrics based projects that we are currently doing in different languages. 
+
 # Links to related projects
 
-1. Dholuo: https://tinyurl.com/rejnac-wende
-2. Swahili: https://tinyurl.com/rejnac-nyimbo
-3. SDAH: https://tinyurl.com/rejnac-sdah
-4. Kikuyu: https://tinyurl.com/rejnac-kikuyu
-5. Chichewa: https://tinyurl.com/rejnac-chichewa
+Compilation: https://tinyurl.com/rejnac-hymnals
    
 
 # Donation contacts
