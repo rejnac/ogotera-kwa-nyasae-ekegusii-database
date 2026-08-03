@@ -1,7 +1,5 @@
 # Ogotera Kwa Nyasae from Rejnac Foundation.
 
-By sir enock,
-
 The repository contains all the 370 Ogotera Kwa Nyasae hymnal lyrics in Ekegusii language also called Kisii, Gusii pr Kikisii.
 
 Disclosure: The lyrics were prepared on VideoPsalm Church Presentation software (open-source), exported in its native (.vpc) format, and extracted as (.Json) file.
@@ -21,4 +19,4 @@ Compiled: https://tinyurl.com/rejnac-compiled
 2. Copy the downloaded (.vpc) file into your computer's VideoPsalm root folder (inside songbooks)
 3. Launch or restart VideoPsalm App for the changes to apply. Enjoy!!!
  
-Prepared by sir enock, director at Rejnac Group Inc. (https://rejnac.com).
+Prepared sir enock and friends (https://rejnac.org).
