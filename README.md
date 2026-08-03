@@ -10,7 +10,7 @@ Ogotera Kwa Nyasae is part of several other databases and lyrics based projects 
 
 # Multi-lingual SDA hymnal
 
-Compiled: https://tinyurl.com/rejnac-hymnals
+Compiled: https://tinyurl.com/rejnac-compiled
    
 
 # Donation contacts
