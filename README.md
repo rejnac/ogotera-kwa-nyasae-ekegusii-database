@@ -7,7 +7,7 @@ Disclosure: The lyrics were prepared on VideoPsalm Church Presentation software 
 Ogotera Kwa Nyasae is part of several other databases and lyrics based projects that we are currently doing in different languages. 
 
 # Mission
-Making SDA Worship Material accessible to everyone.
+Making SDA worship material accessible to everyone.
 
 
 # Compilation
